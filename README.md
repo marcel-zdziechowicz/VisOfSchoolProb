@@ -3,8 +3,6 @@
 
 <i>![Failed to load image](screenshot.png)</i>
 
-<pre>
-
 ```cpp
 #include <cstdint>
 #include <iostream>
@@ -98,4 +96,3 @@ static void Update(uint32_t Row, uint32_t Col)
         ((Row + 1) * frw) + (Row * fdw) + (((2 * Col) + 1) * fd), std::ios::beg).write(STRONG_GREEN.data(), STRONG_GREEN.size());
 }
 ```
-</pre>
