@@ -1,10 +1,9 @@
-# <center>Visualization of School Problem</center>
-## <center>Marcel Zdziechowicz</center>
+# Visualization of School Problem
+## Marcel Zdziechowicz
 ---
 
-<center>
-    ![Failed to load image](screenshot.png)
-</center>
+### Program result
+![Failed to load image](screenshot.png)
 
 ---
 ### CPP Code
